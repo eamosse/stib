@@ -1,0 +1,327 @@
+[
+  {
+    "station": "ELISABETH",
+    "lat": 50.63138,
+    "lng": 4.0743
+  },
+  {
+    "station": "RIBAUCOURT",
+    "lat": 50.6025788,
+    "lng": 4.04555
+  },
+  {
+    "station": "GARE DE L'OUEST",
+    "lat": 50.4880127,
+    "lng": 4.1250545
+  },
+  {
+    "station": "VEEWEYDE",
+    "lat": 50.29695,
+    "lng": 4.07382
+  },
+  {
+    "station": "SAINTE-CATHERINE",
+    "lat": 50.52049,
+    "lng": 4.7924333
+  },
+  {
+    "station": "VANDERVELDE",
+    "lat": 50.474598,
+    "lng": 4.74624
+  },
+  {
+    "station": "PANNENHUIS",
+    "lat": 50.7363133,
+    "lng": 4.3101667
+  },
+  {
+    "station": "ERASME",
+    "lat": 50.1523233,
+    "lng": 4.6922667
+  },
+  {
+    "station": "CERIA",
+    "lat": 50.1629643,
+    "lng": 4.0344714
+  },
+  {
+    "station": "JOSEPH.-CHARLOTTE",
+    "lat": 50.4047333,
+    "lng": 4.3964667
+  },
+  {
+    "station": "EDDY MERCKX",
+    "lat": 50.1667933,
+    "lng": 4.0921667
+  },
+  {
+    "station": "SIMONIS",
+    "lat": 50.6335145,
+    "lng": 4.0230818
+  },
+  {
+    "station": "HOTEL DES MONNAIES",
+    "lat": 50.3328467,
+    "lng": 4.9013667
+  },
+  {
+    "station": "PORTE DE NAMUR",
+    "lat": 50.3866664,
+    "lng": 4.2561455
+  },
+  {
+    "station": "ARTS-LOI",
+    "lat": 50.454334,
+    "lng": 4.91944
+  },
+  {
+    "station": "ROGIER",
+    "lat": 50.556957,
+    "lng": 4.83264
+  },
+  {
+    "station": "SCHUMAN",
+    "lat": 50.42892,
+    "lng": 4.31231
+  },
+  {
+    "station": "BIZET",
+    "lat": 50.25123,
+    "lng": 4.75856
+  },
+  {
+    "station": "MONTGOMERY",
+    "lat": 50.377085,
+    "lng": 4.7128833
+  },
+  {
+    "station": "HERRMANN-DEBROUX",
+    "lat": 50.1216,
+    "lng": 4.863025
+  },
+  {
+    "station": "HANKAR",
+    "lat": 50.21382,
+    "lng": 4.55318
+  },
+  {
+    "station": "GARE DU MIDI",
+    "lat": 50.3683333,
+    "lng": 4.760925
+  },
+  {
+    "station": "ROODEBEEK",
+    "lat": 50.4753,
+    "lng": 4.5656
+  },
+  {
+    "station": "THIEFFRY",
+    "lat": 50.331474,
+    "lng": 4.18258
+  },
+  {
+    "station": "JACQUES BREL",
+    "lat": 50.442466,
+    "lng": 4.80518
+  },
+  {
+    "station": "GARE DU NORD",
+    "lat": 50.6043633,
+    "lng": 4.9589444
+  },
+  {
+    "station": "MERODE",
+    "lat": 50.393875,
+    "lng": 4.8667625
+  },
+  {
+    "station": "BELGICA",
+    "lat": 50.6798671,
+    "lng": 4.6310429
+  },
+  {
+    "station": "HORTA",
+    "lat": 50.261004,
+    "lng": 4.50714
+  },
+  {
+    "station": "BOCKSTAEL",
+    "lat": 50.7769171,
+    "lng": 4.7704071
+  },
+  {
+    "station": "HOUBA-BRUGMANN",
+    "lat": 50.898386,
+    "lng": 4.73244
+  },
+  {
+    "station": "DELTA",
+    "lat": 50.180705,
+    "lng": 4.4618
+  },
+  {
+    "station": "DIAMANT",
+    "lat": 50.4913925,
+    "lng": 4.1975375
+  },
+  {
+    "station": "PARC",
+    "lat": 50.4649825,
+    "lng": 4.227675
+  },
+  {
+    "station": "ALBERT",
+    "lat": 50.214543,
+    "lng": 4.2538
+  },
+  {
+    "station": "BOTANIQUE",
+    "lat": 50.5370225,
+    "lng": 4.573125
+  },
+  {
+    "station": "DE BROUCKERE",
+    "lat": 50.5111609,
+    "lng": 4.2506455
+  },
+  {
+    "station": "GEORGES HENRI",
+    "lat": 50.4290471,
+    "lng": 4.6032857
+  },
+  {
+    "station": "PARVIS ST-GILLES",
+    "lat": 50.300334,
+    "lng": 4.55702
+  },
+  {
+    "station": "MADOU",
+    "lat": 50.4986829,
+    "lng": 4.9309714
+  },
+  {
+    "station": "OSSEGHEM",
+    "lat": 50.5685633,
+    "lng": 4.5483
+  },
+  {
+    "station": "TRONE",
+    "lat": 50.4094344,
+    "lng": 4.5797333
+  },
+  {
+    "station": "COMTE DE FLANDRE",
+    "lat": 50.5509775,
+    "lng": 4.9811
+  },
+  {
+    "station": "STUYVENBERGH",
+    "lat": 50.8604757,
+    "lng": 4.2262143
+  },
+  {
+    "station": "BEEKKANT",
+    "lat": 50.5349,
+    "lng": 4.2967167
+  },
+  {
+    "station": "LOUISE",
+    "lat": 50.3555367,
+    "lng": 4.5141333
+  },
+  {
+    "station": "BOILEAU",
+    "lat": 50.32795,
+    "lng": 4.50056
+  },
+  {
+    "station": "BOURSE",
+    "lat": 50.4811343,
+    "lng": 4.8642
+  },
+  {
+    "station": "TOMBERG",
+    "lat": 50.439476,
+    "lng": 4.56796
+  },
+  {
+    "station": "ETANGS NOIRS",
+    "lat": 50.5718671,
+    "lng": 4.2673286
+  },
+  {
+    "station": "MAELBEEK",
+    "lat": 50.436772,
+    "lng": 4.77308
+  },
+  {
+    "station": "PETILLON",
+    "lat": 50.283384,
+    "lng": 4.33916
+  },
+  {
+    "station": "ROI BAUDOUIN",
+    "lat": 50.965888,
+    "lng": 4.87018
+  },
+  {
+    "station": "STOCKEL",
+    "lat": 50.4124057,
+    "lng": 4.4386857
+  },
+  {
+    "station": "HEYSEL",
+    "lat": 50.9684914,
+    "lng": 4.6331
+  },
+  {
+    "station": "YSER",
+    "lat": 50.57109,
+    "lng": 4.1691
+  },
+  {
+    "station": "BEAULIEU",
+    "lat": 50.153224,
+    "lng": 4.9004
+  },
+  {
+    "station": "ANNEESSENS",
+    "lat": 50.444866,
+    "lng": 4.57168
+  },
+  {
+    "station": "LA ROUE",
+    "lat": 50.2103433,
+    "lng": 4.3809667
+  },
+  {
+    "station": "CRAINHEM",
+    "lat": 50.48584,
+    "lng": 4.8859
+  },
+  {
+    "station": "GRIBAUMONT",
+    "lat": 50.4256467,
+    "lng": 4.8740667
+  },
+  {
+    "station": "LEMONNIER",
+    "lat": 50.403405,
+    "lng": 4.0923
+  },
+  {
+    "station": "SAINT-GUIDON",
+    "lat": 50.3472171,
+    "lng": 4.5605
+  },
+  {
+    "station": "DEMEY",
+    "lat": 50.131472,
+    "lng": 4.21252
+  },
+  {
+    "station": "PORTE DE HAL",
+    "lat": 50.3332064,
+    "lng": 4.3323273
+  }
+]
